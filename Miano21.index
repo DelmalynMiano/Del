@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Personal Information</title>
+    </head>
+    <bodystyle="font-family:Times New Roman;">
+      </style>
+      <center>
+        <table witdh="900px" border="20">
+          <tr>
+          </td>
+          <th witdh="100px" height="40px" bgcolor="yellow">ABOUT ME</th>
+          </tr>
+          <tr>
+            <td>
+              <ul>
+                <li>FULLNAME : Delmalyn H.Miano</li>
+                <li>AGE : 21 years Old</li>
+                <li>BIRTHDATE : January 21, 2002</li>
+                <li>BIRTPLACE : Egang,Carol an Ayungon, Neg.Or.</li>
+                <li>ADDRESS : Brgy. Carol an Ayungon Neg. Or.</li>
+                <li>SCHOOL : Central Philippines State University</li>
+                <li>YEAR & SECTION : 3-C</li>
+                <li>COURSE : Bachelor of Science In Information Technology</li>
+              </ul>
+            </td>
+            </tr>
+            <tr>
+              <th colspan="2" height="40px"bgcolor="yellowgreen">Social Media</th>
+              </tr>
+              <tr>
+                <td colspan="2">
+                  <p>Check me on :</p>
+                  <lu>
+                    <li><a href=""f ="https://www.facebook.com/dhemi21">Facebook</a></li>
+                    <li><a href="https://instagram.com/itsme_chang_21?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">IG</a></li>
+                  </lu>
+                  
+                  
+                </td>
+              </tr>
+              <tr>
+                <th colspan="2" height="40px"bgcolor="yellowgreen">Motto in Life</th> 
+                <tr>
+                  </tr>
+                  <td colspan="2">Continue because it has already been started. And God will provide.</td>
+                </tr>
+                <tr>
+                <th colspan="2"height="40px"bgcolor="yellowgreen">Favorate Verse</th>
+                </tr>
+                <tr>
+                  <td>Phil. 4:13:
+                  I can Do all things through Jesus Christ Who Strenghten Me.</td>
+                </tr>
+                <tr>
+                  <td colspan="2"height="30px"bgcolor="yellow"></td>
+                
+              
+            
+            </table>
+            </center>
+              
+            
+            
+            
+            
+      </body>
+      </head>
+  
+    
